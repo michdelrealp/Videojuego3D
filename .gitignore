@@ -1,0 +1,41 @@
+# Archivos y carpetas generadas automáticamente por Unity y no necesarias en el repositorio
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de Unity Cloud Build
+*.apk
+*.aab
+
+# Archivos personales
+*.swp
+*.bak
+*.orig
+*.db
+
+# GitHub Copilot
+.idea/
+
+# Archivos de paquete innecesarios
+*.unitypackage
