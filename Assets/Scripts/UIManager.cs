@@ -5,13 +5,13 @@ using TMPro;
 
 public class UIManager : MonoBehaviour
 {
-    public TextMeshProUGUI currentScoreText;
-    public TextMeshProUGUI bestScoreText;
+    public TextMeshProUGUI CurrentScoreText;
+    public TextMeshProUGUI BestScoreText;
 
     void Update()
     {
-        currentScoreText.text = "Score: " + GameManager.singleton.currentScore;
-        bestScoreText.text = "Best: " + GameManager.singleton.bestScore;
+        CurrentScoreText.text = "Score: " + GameManager.singleton.currentScore;
+        BestScoreText.text = "Best: " + GameManager.singleton.bestScore;
     }
 }
  
