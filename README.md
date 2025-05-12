@@ -9,3 +9,5 @@ git commit -m "Desarrollo curva de dificultad" <br>
 git commit -m "Creación de niveles" <br>
 git commit -m "Score y DeathPart" <br>
 git commit -m "Iluminación y mejoras visuales" <br>
+git commit -m "Mejora de Interfaz y cambios de nivel" <br>
+git commit -m "Modificación en la navegación" <br>
