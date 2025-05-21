@@ -11,3 +11,5 @@ git commit -m "Score y DeathPart" <br>
 git commit -m "Iluminación y mejoras visuales" <br>
 git commit -m "Mejora de Interfaz y cambios de nivel" <br>
 git commit -m "Modificación en la navegación" <br>
+git commit -m "Barra de progreso" <br>
+git commit -m "Cambio de velocidad" <br>
